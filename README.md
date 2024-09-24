@@ -1,5 +1,26 @@
 # E-Commerce Platform Clone
 
+
+# Access Credentials
+
+To access the application, please use the following credentials:
+
+## Application URL
+- [https://munieshwar.ccbp.tech](https://munieshwar.ccbp.tech)
+
+## Prime User:
+- **Username**: rahul
+- **Password**: rahul@2021
+
+## Non-Prime User:
+- **Username**: mosh
+- **Password**: DevMosh22
+
+**Note:** These credentials are required to log in to the application and test different user roles.
+
+
+
+
 ## Description
 
 Developed a clone of popular e-commerce platforms like Flipkart and Amazon using React JS. Key topics covered include:
