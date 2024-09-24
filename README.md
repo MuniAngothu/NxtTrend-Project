@@ -1,7 +1,7 @@
 # E-Commerce Platform Clone
 
 
-# Access Credentials
+##Access Credentials
 
 To access the application, please use the following credentials:
 
